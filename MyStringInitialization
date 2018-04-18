@@ -7,5 +7,7 @@ public class MyStringInitialization {
         char[] c = {'a','b','c','d'};
         String cdf = new String(c);
         String junk = abc+" This is another String object";
+        System.out.println  (  "  more string methods are called " ) ;
+        System.out.println  ( " exploring more string functionality " ) ;
     }
 }
